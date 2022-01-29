@@ -24,3 +24,14 @@ name = "yugander,yadav,bala,goutham"
 
 names = name.split(",")
 print(names)
+
+a=["11","12","13"]
+b=["21","22","23"]
+c=["31","33","33"]
+
+h=[a,b,c]
+print(f'{a}\n{b}\n{c}')
+z=(input("Please enter a row and column number"))
+d=int(z[0])-1
+e=int(z[1])-1
+print(h[d][e])
