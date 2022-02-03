@@ -1,22 +1,8 @@
-# conditional statements logical operators , code blocks with scope
-a=1
 
-# indentation is important in python 
-
-
-if(a==0):
-    print("hello world")
-elif a==1:
-    print("yo")
-else:
-    print("what up")
-
-## odd or even assignment 
+# noa=int(input("Please enter password length "))
+# nos=int(input("enter number of symbols "))
+# non=int(input('enter number of numbers '))
 
 
-b=2
-
-if(b%2==0):
-    print("even")
-else:
-    print("odd")
+# for a in range(0,noa):
+#     d=randint(1,3)

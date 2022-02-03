@@ -31,7 +31,16 @@ c=["31","33","33"]
 
 h=[a,b,c]
 print(f'{a}\n{b}\n{c}')
-z=(input("Please enter a row and column number"))
+# z=(input("Please enter a row and column number"))
+z='23'
 d=int(z[0])-1
 e=int(z[1])-1
 print(h[d][e])
+
+
+
+sample = ['rock','paper','siscors']
+
+print(sample[random.randint(0,len(sample)-1)])
+
+d=[1,2,23,243,43]
