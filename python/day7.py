@@ -22,3 +22,5 @@ while(1):
         print("You won the game")
         
 
+dd=[2,5,43,43,2,23,]
+print(dd.index(2))

@@ -31,3 +31,13 @@ while(gameOn):
     print(word)
 
         
+
+
+
+
+
+
+
+
+hh=[1,2,3,243,35,43,43,43]
+print(hh.index(43))
